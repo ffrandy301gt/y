@@ -1,6 +1,6 @@
 module github.com/bluenviron/mediamtx
 
-go 1.23.0
+go 1.24.0
 
 require (
 	code.cloudfoundry.org/bytefmt v0.34.0
@@ -33,7 +33,7 @@ require (
 	github.com/pion/webrtc/v4 v4.0.7
 	github.com/stretchr/testify v1.10.0
 	golang.org/x/crypto v0.36.0
-	golang.org/x/sys v0.31.0
+	golang.org/x/sys v0.36.0
 	golang.org/x/term v0.30.0
 	gopkg.in/yaml.v2 v2.4.0
 )
